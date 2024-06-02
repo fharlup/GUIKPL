@@ -207,6 +207,7 @@
             this.guna2Button2.Size = new System.Drawing.Size(199, 48);
             this.guna2Button2.TabIndex = 10;
             this.guna2Button2.Text = "Submit";
+            this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
             // 
             // UCCreateLaporan
             // 
