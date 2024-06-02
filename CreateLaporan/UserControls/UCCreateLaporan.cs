@@ -16,5 +16,15 @@ namespace CreateLaporan.UserControls
         {
             InitializeComponent();
         }
+
+        private void guna2HtmlLabel5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2TextBox5_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
